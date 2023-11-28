@@ -1,3 +1,10 @@
-body{
-    background-color: rgb(255, 0, 221)606;
+body {
+    background-color: #cf118b;
+} 
+
+h1 { 
+    color: white;
 }
+ p { 
+    color: blue;
+ }
